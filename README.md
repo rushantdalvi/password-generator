@@ -66,5 +66,4 @@ A9@xP#7qLm$2Zw!R
 
 
 ## 📸 Preview
-
-> A clean and modern password generator interface with customizable password options.
+<img width="651" height="558" alt="Screenshot 2026-07-26 184017" src="https://github.com/user-attachments/assets/880596ef-30db-4149-9072-2fbe041436d4" />

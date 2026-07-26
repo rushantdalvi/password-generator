@@ -32,7 +32,7 @@ A simple and responsive **Password Generator** built using **HTML, CSS, and Java
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/rushantdalvi/password-generator.git
 ```
 
 ### 2. Navigate to the Project
